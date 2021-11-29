@@ -1,12 +1,12 @@
 # Concevez une application au service de la santé publique
-https://openclassrooms.com/fr/paths/164/projects/628/assignment
 
-L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
+
+L'agence [Santé publique France](http://www.santepubliquefrance.fr/) a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
 
 # Les données
 Extrait de l’appel à projets :
 
-  Le jeu de données Open Food Fact est disponible sur le site officiel. Les variables sont définies à cette adresse.
+  Le jeu de données Open Food Fact est disponible sur le [site officiel](https://world.openfoodfacts.org/). Les variables sont définies à cette [adresse](https://world.openfoodfacts.org/data/data-fields.txt).
 
   Les champs sont séparés en quatre sections :
 
